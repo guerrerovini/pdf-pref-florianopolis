@@ -4,7 +4,7 @@ Automação para o download de PDFs da Prefeitura de Florianópolis
 Projeto realizado para automatizar o download de PDFs da Prefeitura de Florianópolis.
 Mais informações em: https://jornada-de-dados-do-vini.blogspot.com/
 
-Desenvolvimento realizado em Python 3.9.16 com as bibliotecas Pyautogui, Time, Pyperclip e Pandas
+Desenvolvimento realizado em Python 3.9.16 com as bibliotecas Pyautogui, Time, Pyperclip e Pandas. Projeto realizado em ambiente Windows.
 
 Dados:
 CMC: a ser preenchido com a inscrição municipal do emissor da NF
